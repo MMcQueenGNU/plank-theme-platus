@@ -1,4 +1,4 @@
-Collection of Themes for Plank named Platus
+Collection of Platus Edition Themes for Plank
 
 Visit: https://www.gnome-look.org/p/1301106
 
