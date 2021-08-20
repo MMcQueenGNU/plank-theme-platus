@@ -32,7 +32,7 @@ package() {
 	mkdir -p $pkgdir/usr/share/plank/themes/$_pkgname6
 	mkdir -p $pkgdir/usr/share/plank/themes/$_pkgname7
 	cd "$srcdir/$pkgname-$pkgver/$_pkgname1"
-	install -m 755 dock.theme $pkgdir/usr/share/plank/themes/$_pkgname/
+	install -m 755 dock.theme $pkgdir/usr/share/plank/themes/$_pkgname1/
 	cd "$srcdir/$pkgname-$pkgver/$_pkgname2"
 	install -m 755 dock.theme $pkgdir/usr/share/plank/themes/$_pkgname2/
 	cd "$srcdir/$pkgname-$pkgver/$_pkgname3"	
